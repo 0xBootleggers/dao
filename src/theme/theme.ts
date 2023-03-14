@@ -1,0 +1,56 @@
+export const BOOTLEGGERS_THEME = {
+  themeName: "bootleggers",
+  rootBgColor: "#000000",
+  rootFontColor: "white",
+  transparent: "transparent",
+  font: {
+    family: {
+      body: `'Alegreya', serif`,
+      data: `'Space Mono', monospace`,
+    },
+  },
+  primary: {
+    step1: "white",
+    step2: "white",
+    step3: "white",
+    step4: "white",
+    step5: "white",
+    step6: "white",
+    step7: "white",
+    step8: "white",
+    step9: "white",
+    step10: "white",
+    step11: "white",
+    step12: "white",
+  },
+  //   secondary: {
+  //     step1: "black",
+  //     step2: "black",
+  //     step3: "black",
+  //     step4: "black",
+  //     step5: "black",
+  //     step6: "black",
+  //     step7: "black",
+  //     step8: "black",
+  //     step9: "black",
+  //     step10: "black",
+  //     step11: "black",
+  //     step12: "black",
+  //   },
+};
+// font-family: 'Alegreya', serif;
+
+// const bootLeggerDark = {
+//     step1: amberDark.amber1,
+//     step2: amberDark.amber2,
+//     step3: amberDark.amber3,
+//     step4: amberDark.amber4,
+//     step5: amberDark.amber5,
+//     step6: amberDark.amber6,
+//     step7: amberDark.amber7,
+//     step8: amberDark.amber8,
+//     step9: amberDark.amber9,
+//     step10: amberDark.amber10,
+//     step11: amberDark.amber11,
+//     step12: amberDark.amber12,
+//   };
